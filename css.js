@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Roblox Dark Mode
 // @namespace    name?
-// @version      0.3
-// @updateURL    https://github.com/mawesome4ever/RobloxDevDarkTheme/raw/master/css.js
+// @version      0.1
+// @updateURL    https://raw.githubusercontent.com/mawesome4ever/RobloxDevDarkTheme/main/css.js
 // @description  Sets the page to a darker color
 // @author       mawesome4ever (addictedroblox1414)
 // @match        http*://developer.roblox.com/*
